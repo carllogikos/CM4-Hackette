@@ -1,0 +1,2038 @@
+Info: Processing symbol 'BT1:Battery:BatteryHolder_Keystone_3034_1x20mm'.
+Info: Processing symbol 'Y2:Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_HC49-SD'.
+Info: Processing symbol 'U18:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U16:Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias'.
+Info: Processing symbol 'U15:CM4IO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias'.
+Info: Processing symbol 'U14:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U13:Package_SO:MSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U12:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'U11:Package_SO:MSOP-8_3x3mm_P0.65mm'.
+Info: Processing symbol 'U9:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'U8:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'U7:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U6:Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U4:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Processing symbol 'U3:CM4IO:TRJG0926HENL'.
+Info: Processing symbol 'U2:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Processing symbol 'U1:Package_SON:USON-10_2.5x1.0mm_P0.5mm'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'TP6:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'TP5:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'TP4:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'TP3:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'TP2:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'TP1:TestPoint:TestPoint_Pad_2.0x2.0mm'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R23:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R22:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'R21:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R20:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R19:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R17:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'Q1:Package_SON:Diodes_PowerDI3333-8'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'Module1:CM4IO:Raspberry-Pi-4-Compute-Module'.
+Info: Processing symbol 'L5:Inductor_SMD:L_Bourns_SRN6045TA'.
+Info: Processing symbol 'L3:Inductor_SMD:L_Bourns_SRN6045TA'.
+Info: Processing symbol 'J22:CM4IO:EDAC 690-019-298-412'.
+Info: Processing symbol 'J20:171826-4:TE_171826-4'.
+Info: Processing symbol 'J19:CM4IO:BarrelJack_Horizontal'.
+Info: Processing symbol 'J17:Connector:FanPinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J16:CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal'.
+Info: Processing symbol 'J15:CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal'.
+Info: Processing symbol 'J14:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical'.
+Info: Processing symbol 'J13:CM4IO:MOLEX_USB_67298-4090'.
+Info: Processing symbol 'J12:CM4IO:PCIex1-36'.
+Info: Processing symbol 'J11:CM4IO:USB_Micro-B_EDAC_UCON00686'.
+Info: Processing symbol 'J10:CM4IO:EDAC 690-019-298-412'.
+Info: Processing symbol 'J9:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:CM4IO:SDCARD_MOLEX_503398-1892'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal'.
+Info: Processing symbol 'J4:CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H8:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H7:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H6:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H5:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_2.7mm_M2.5'.
+Info: Processing symbol 'D4:Diode_SMD:D_SOT-23_ANK'.
+Info: Processing symbol 'D3:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'D2:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'C65:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C64:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C63:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C62:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C61:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C59:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C45:Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C42:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C41:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C40:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C31:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C16:Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C18:Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D'.
+Updated C17 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c0411.
+Updated C17 properties.
+Connected C17 pin 1 to /USB2-HUB/VBUS.
+Connected C17 pin 2 to GND.
+Changed C17 value from C_0805_2012Metric to 10u.
+Added C18 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D').
+Changed REF** reference designator to C18.
+Changed C18 value from CP_EIA-7343-31_Kemet-D to 100uF.
+Updated C18 symbol association from  to /00000000-0000-0000-0000-00005d31f999/37be3783-986e-41bc-a074-efadea452183.
+Updated C18 properties.
+Connected C18 pin 1 to /+5v.
+Connected C18 pin 2 to GND.
+Changed REF** reference designator to C17.
+Added C19 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C19.
+Changed C19 value from C_0805_2012Metric to 10u.
+Updated C19 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c047b.
+Updated C19 properties.
+Connected C19 pin 1 to /USB2-HUB/VBUS.
+Connected C19 pin 2 to GND.
+Added C17 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added C20 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C20.
+Changed C20 value from C_0805_2012Metric to 10u.
+Updated C20 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c0405.
+Updated C20 properties.
+Connected C20 pin 1 to /USB2-HUB/VBUS.
+Connected C20 pin 2 to GND.
+Connected C16 pin 2 to GND.
+Added C21 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C21.
+Changed C21 value from C_0805_2012Metric to 10u.
+Updated C21 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d4c046f.
+Updated C21 properties.
+Connected C21 pin 1 to /USB2-HUB/VBUS.
+Connected C21 pin 2 to GND.
+Connected C16 pin 1 to /USB2-HUB/VBUS.
+Added C22 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C22.
+Changed C22 value from C_0402_1005Metric to 100n.
+Updated C22 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e37f6d4.
+Updated C22 properties.
+Connected C22 pin 1 to /+5v.
+Connected C22 pin 2 to GND.
+Add net /USB2-HUB/VBUS.
+Added C23 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C23.
+Changed C23 value from C_0402_1005Metric to 100n.
+Updated C23 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0dcf99.
+Updated C23 properties.
+Connected C23 pin 1 to /+3.3v.
+Connected C23 pin 2 to GND.
+Updated C16 properties.
+Added C24 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C24.
+Changed C24 value from C_0402_1005Metric to 100n.
+Updated C24 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e37f943.
+Updated C24 properties.
+Add net Net-(C24-Pad1).
+Connected C24 pin 1 to Net-(C24-Pad1).
+Add net /RTC , Wakeup, FAN/nRTC_INT.
+Connected C24 pin 2 to /RTC , Wakeup, FAN/nRTC_INT.
+Updated C16 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005eb197aa.
+Added C25 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C25.
+Changed C25 value from C_0805_2012Metric to 10u 35v.
+Updated C25 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb7c833.
+Updated C25 properties.
+Add net /+12v.
+Connected C25 pin 1 to /+12v.
+Connected C25 pin 2 to GND.
+Changed C16 value from CP_EIA-7343-31_Kemet-D to 100uF.
+Added C26 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C26.
+Changed C26 value from C_0805_2012Metric to 10u 35v.
+Updated C26 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb7b5fb.
+Updated C26 properties.
+Connected C26 pin 1 to /+12v.
+Connected C26 pin 2 to GND.
+Changed REF** reference designator to C16.
+Added C27 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C27.
+Changed C27 value from C_0805_2012Metric to 10u 35v.
+Updated C27 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb7a15f.
+Updated C27 properties.
+Connected C27 pin 1 to /+12v.
+Connected C27 pin 2 to GND.
+Added C16 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D').
+Added C28 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C28.
+Changed C28 value from C_0805_2012Metric to 10u 35v.
+Updated C28 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb79355.
+Updated C28 properties.
+Connected C28 pin 1 to /+12v.
+Connected C28 pin 2 to GND.
+Connected C15 pin 2 to GND.
+Added C29 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C29.
+Changed C29 value from C_0402_1005Metric to 100n.
+Updated C29 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489ec9.
+Updated C29 properties.
+Add net Net-(C29-Pad1).
+Connected C29 pin 1 to Net-(C29-Pad1).
+Add net Net-(U15-BST).
+Connected C29 pin 2 to Net-(U15-BST).
+Connected C15 pin 1 to /+3.3v.
+Added C30 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C30.
+Changed C30 value from C_0805_2012Metric to 10u.
+Updated C30 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005d2bde55.
+Updated C30 properties.
+Add net /PCIe-connector/+3.3v.
+Connected C30 pin 1 to /PCIe-connector/+3.3v.
+Connected C30 pin 2 to GND.
+Updated C15 properties.
+Added C31 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C31.
+Changed C31 value from C_0805_2012Metric to 10u.
+Updated C31 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005d2be240.
+Updated C31 properties.
+Connected C31 pin 1 to /PCIe-connector/+3.3v.
+Connected C31 pin 2 to GND.
+Updated C15 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3ade99.
+Added C32 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C32.
+Changed C32 value from C_0805_2012Metric to 10u.
+Updated C32 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005d2be48f.
+Updated C32 properties.
+Connected C32 pin 1 to /PCIe-connector/+3.3v.
+Connected C32 pin 2 to GND.
+Changed C15 value from C_0402_1005Metric to 100n.
+Added C33 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C33.
+Changed C33 value from C_0805_2012Metric to 10u.
+Updated C33 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005d2beaa1.
+Updated C33 properties.
+Connected C33 pin 1 to /PCIe-connector/+3.3v.
+Connected C33 pin 2 to GND.
+Changed REF** reference designator to C15.
+Added C34 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C34.
+Changed C34 value from C_0805_2012Metric to 10u 35v.
+Updated C34 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb60516.
+Updated C34 properties.
+Connected C34 pin 1 to /+12v.
+Connected C34 pin 2 to GND.
+Added C15 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added C35 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C35.
+Changed C35 value from C_0805_2012Metric to 10u 35v.
+Updated C35 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb5e922.
+Updated C35 properties.
+Connected C35 pin 1 to /+12v.
+Connected C35 pin 2 to GND.
+Connected C14 pin 2 to GND.
+Added C36 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C36.
+Changed C36 value from C_0402_1005Metric to 100n 100v.
+Updated C36 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d32f618.
+Updated C36 properties.
+Add net Net-(Q1-D).
+Connected C36 pin 1 to Net-(Q1-D).
+Connected C36 pin 2 to GND.
+Connected C14 pin 1 to /+3.3v.
+Added C37 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C37.
+Changed C37 value from C_0805_2012Metric to 10u 35v.
+Updated C37 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb5c577.
+Updated C37 properties.
+Connected C37 pin 1 to /+12v.
+Connected C37 pin 2 to GND.
+Updated C14 properties.
+Added C38 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C38.
+Changed C38 value from C_0805_2012Metric to 10u 35v.
+Updated C38 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb58aeb.
+Updated C38 properties.
+Connected C38 pin 1 to /+12v.
+Connected C38 pin 2 to GND.
+Updated C14 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3aca54.
+Added C39 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C39.
+Changed C39 value from C_0805_2012Metric to 10u 35v.
+Updated C39 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb56b99.
+Updated C39 properties.
+Connected C39 pin 1 to /+12v.
+Connected C39 pin 2 to GND.
+Changed C14 value from C_0402_1005Metric to 100n.
+Added C40 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C40.
+Changed C40 value from C_0402_1005Metric to 100n.
+Updated C40 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e4c3e94.
+Updated C40 properties.
+Connected C40 pin 1 to /+12v.
+Add net Net-(D4-A).
+Connected C40 pin 2 to Net-(D4-A).
+Changed REF** reference designator to C14.
+Added C41 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C41.
+Changed C41 value from C_0805_2012Metric to 10u 35v.
+Updated C41 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb4cf69.
+Updated C41 properties.
+Connected C41 pin 1 to /+12v.
+Connected C41 pin 2 to GND.
+Added C14 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added C42 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C42.
+Changed C42 value from C_0805_2012Metric to 10u 35v.
+Updated C42 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005eb8a13e.
+Updated C42 properties.
+Connected C42 pin 1 to /+12v.
+Connected C42 pin 2 to GND.
+Connected C13 pin 2 to GND.
+Added C43 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C43.
+Changed C43 value from C_0805_2012Metric to 10u 35v.
+Updated C43 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb78a39.
+Updated C43 properties.
+Connected C43 pin 1 to /+12v.
+Connected C43 pin 2 to GND.
+Connected C13 pin 1 to /CM4_HighSpeed/HDMI_5v.
+Added C44 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C44.
+Changed C44 value from C_0805_2012Metric to 10u 35v.
+Updated C44 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eb74fe8.
+Updated C44 properties.
+Connected C44 pin 1 to /+12v.
+Connected C44 pin 2 to GND.
+Add net /CM4_HighSpeed/HDMI_5v.
+Added C45 (footprint 'Capacitor_Tantalum_SMD:CP_EIA-7343-31_Kemet-D').
+Changed REF** reference designator to C45.
+Changed C45 value from CP_EIA-7343-31_Kemet-D to 100uF.
+Updated C45 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005eadd496.
+Updated C45 properties.
+Connected C45 pin 1 to /PCIe-connector/+3.3v.
+Connected C45 pin 2 to GND.
+Updated C13 properties.
+Added C46 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C46.
+Changed C46 value from C_0402_1005Metric to 100n.
+Updated C46 symbol association from  to /00000000-0000-0000-0000-00005e328d89/e75e5065-35a0-4517-8a34-de205d6745b5.
+Updated C46 properties.
+Add net Net-(U8-VDD).
+Connected C46 pin 1 to Net-(U8-VDD).
+Connected C46 pin 2 to GND.
+Updated C13 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005da83896.
+Added C47 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C47.
+Changed C47 value from C_0805_2012Metric to 10u.
+Updated C47 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d3289ab.
+Updated C47 properties.
+Connected C47 pin 1 to /+5v.
+Connected C47 pin 2 to GND.
+Changed C13 value from C_0402_1005Metric to 100n.
+Added C49 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C49.
+Changed C49 value from C_0805_2012Metric to 10u.
+Updated C49 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d3289b2.
+Updated C49 properties.
+Connected C49 pin 1 to /+5v.
+Connected C49 pin 2 to GND.
+Changed REF** reference designator to C13.
+Added C51 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C51.
+Changed C51 value from C_0805_2012Metric to 10u.
+Updated C51 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d3289b8.
+Updated C51 properties.
+Connected C51 pin 1 to /+5v.
+Connected C51 pin 2 to GND.
+Added C13 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added C52 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C52.
+Changed C52 value from C_0805_2012Metric to 10u.
+Updated C52 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d3289be.
+Updated C52 properties.
+Connected C52 pin 1 to /+5v.
+Connected C52 pin 2 to GND.
+Connected C12 pin 2 to GND.
+Added C57 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C57.
+Changed C57 value from C_0402_1005Metric to 100n.
+Updated C57 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df2.
+Updated C57 properties.
+Add net Net-(C57-Pad1).
+Connected C57 pin 1 to Net-(C57-Pad1).
+Add net Net-(U16-BST).
+Connected C57 pin 2 to Net-(U16-BST).
+Connected C12 pin 1 to /+5v.
+Added C58 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C58.
+Changed C58 value from C_0402_1005Metric to 100n.
+Updated C58 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540dfb.
+Updated C58 properties.
+Add net Net-(U16-SS).
+Connected C58 pin 1 to Net-(U16-SS).
+Connected C58 pin 2 to GND.
+Updated C12 properties.
+Added C59 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C59.
+Changed C59 value from C_0402_1005Metric to nf.
+Updated C59 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df8.
+Updated C59 properties.
+Add net Net-(U16-COMP).
+Connected C59 pin 1 to Net-(U16-COMP).
+Connected C59 pin 2 to GND.
+Updated C12 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005daa0732.
+Added C60 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C60.
+Changed C60 value from C_0402_1005Metric to 1.2nF.
+Updated C60 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df7.
+Updated C60 properties.
+Add net Net-(C60-Pad1).
+Connected C60 pin 1 to Net-(C60-Pad1).
+Connected C60 pin 2 to GND.
+Changed C12 value from C_0402_1005Metric to 100n.
+Added C61 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C61.
+Changed C61 value from C_0402_1005Metric to nf.
+Updated C61 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df4.
+Updated C61 properties.
+Connected C61 pin 1 to /+5v.
+Add net Net-(U16-FB).
+Connected C61 pin 2 to Net-(U16-FB).
+Changed REF** reference designator to C12.
+Added C62 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C62.
+Changed C62 value from C_0402_1005Metric to 100n.
+Updated C62 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489eff.
+Updated C62 properties.
+Add net Net-(U15-SS).
+Connected C62 pin 1 to Net-(U15-SS).
+Connected C62 pin 2 to GND.
+Added C12 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added C63 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C63.
+Changed C63 value from C_0402_1005Metric to nf.
+Updated C63 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489e7e.
+Updated C63 properties.
+Add net Net-(U15-COMP).
+Connected C63 pin 1 to Net-(U15-COMP).
+Connected C63 pin 2 to GND.
+Connected C11 pin 2 to GND.
+Added C64 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C64.
+Changed C64 value from C_0402_1005Metric to 1.2nF.
+Updated C64 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489e44.
+Updated C64 properties.
+Add net Net-(C64-Pad1).
+Connected C64 pin 1 to Net-(C64-Pad1).
+Connected C64 pin 2 to GND.
+Connected C11 pin 1 to /+3.3v.
+Added C65 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to C65.
+Changed C65 value from C_0402_1005Metric to nf.
+Updated C65 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489fb7.
+Updated C65 properties.
+Connected C65 pin 1 to /PCIe-connector/+3.3v.
+Add net Net-(U15-FB).
+Connected C65 pin 2 to Net-(U15-FB).
+Updated C11 properties.
+Added D1 (footprint 'LED_SMD:LED_0603_1608Metric').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_0603_1608Metric to LED Red.
+Updated D1 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e286645.
+Updated D1 properties.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to /+3.3v.
+Updated C11 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3aa782.
+Added D2 (footprint 'LED_SMD:LED_0603_1608Metric').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_0603_1608Metric to LED Green.
+Updated D2 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e19548d.
+Updated D2 properties.
+Add net Net-(D2-K).
+Connected D2 pin 1 to Net-(D2-K).
+Connected D2 pin 2 to /+3.3v.
+Changed C11 value from C_0402_1005Metric to 100n.
+Added D3 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to D3.
+Changed D3 value from SOT-23 to BAT54C-7-F.
+Updated D3 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e8f3ded.
+Updated D3 properties.
+Connected D3 pin 1 to Net-(BT1-+).
+Connected D3 pin 2 to /+3.3v.
+Connected D3 pin 3 to Net-(U8-VDD).
+Changed REF** reference designator to C11.
+Connected Y2 pin 2 to Net-(U8-OSCI).
+Added C11 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added H1 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H1.
+Changed H1 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H1 symbol association from  to /00000000-0000-0000-0000-00005e3b2f75.
+Updated H1 properties.
+Removed H1 'exclude from BOM' fabrication attribute.
+Connected C10 pin 2 to GND.
+Added H2 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H2.
+Changed H2 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H2 symbol association from  to /00000000-0000-0000-0000-00005e3b2cb2.
+Updated H2 properties.
+Removed H2 'exclude from BOM' fabrication attribute.
+Connected C10 pin 1 to /+3.3v.
+Added H3 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H3.
+Changed H3 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H3 symbol association from  to /00000000-0000-0000-0000-00005e3b25a9.
+Updated H3 properties.
+Removed H3 'exclude from BOM' fabrication attribute.
+Updated C10 properties.
+Added H4 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H4.
+Changed H4 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H4 symbol association from  to /00000000-0000-0000-0000-00005e3b1a1d.
+Updated H4 properties.
+Removed H4 'exclude from BOM' fabrication attribute.
+Updated C10 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3b94fc.
+Added H5 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H5.
+Changed H5 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H5 symbol association from  to /00000000-0000-0000-0000-00005e3b32fa.
+Updated H5 properties.
+Removed H5 'exclude from BOM' fabrication attribute.
+Changed C10 value from C_0805_2012Metric to 10u.
+Added H6 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H6.
+Changed H6 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H6 symbol association from  to /00000000-0000-0000-0000-00005e3b3330.
+Updated H6 properties.
+Removed H6 'exclude from BOM' fabrication attribute.
+Changed REF** reference designator to C10.
+Added H7 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H7.
+Changed H7 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H7 symbol association from  to /00000000-0000-0000-0000-00005e3b331e.
+Updated H7 properties.
+Removed H7 'exclude from BOM' fabrication attribute.
+Added C10 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added H8 (footprint 'MountingHole:MountingHole_2.7mm_M2.5').
+Changed REF** reference designator to H8.
+Changed H8 value from MountingHole_2.7mm_M2.5 to MountingHole.
+Updated H8 symbol association from  to /00000000-0000-0000-0000-00005e3b330c.
+Updated H8 properties.
+Removed H8 'exclude from BOM' fabrication attribute.
+Connected C9 pin 2 to GND.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03.
+Updated J1 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e411f5a.
+Updated J1 properties.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GLOBAL_EN.
+Connected J1 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GLOBAL_EN.
+Connected J1 pin 2 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/RUN_PG.
+Connected J1 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/RUN_PG.
+Connected C9 pin 1 to Net-(U6-XTALOUT).
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical').
+Changed REF** reference designator to J2.
+Changed J2 value from PinHeader_2x07_P2.54mm_Vertical to Conn_02x07_Odd_Even.
+Updated J2 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e70fd78.
+Updated J2 properties.
+Connected J2 pin 1 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nRPIBOOT.
+Connected J2 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nRPIBOOT.
+Connected J2 pin 3 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/EEPROM_nWP.
+Connected J2 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/EEPROM_nWP.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN0.
+Connected J2 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN0.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN1.
+Connected J2 pin 6 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN1.
+Connected J2 pin 7 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_IN.
+Connected J2 pin 8 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_IN.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_OUT.
+Connected J2 pin 9 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_OUT.
+Connected J2 pin 10 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TV_OUT.
+Connected J2 pin 11 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TV_OUT.
+Connected J2 pin 12 to GND.
+Add net Net-(J2-Pin_13).
+Connected J2 pin 13 to Net-(J2-Pin_13).
+Connected J2 pin 14 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GLOBAL_EN.
+Add net Net-(U6-XTALOUT).
+Added J3 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J3.
+Changed J3 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03.
+Updated J3 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e95ca2d.
+Updated J3 properties.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/WL_nDis.
+Connected J3 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/WL_nDis.
+Connected J3 pin 2 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/BT_nDis.
+Connected J3 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/BT_nDis.
+Updated C9 properties.
+Added J4 (footprint 'CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal').
+Changed HirsoeFH12-22S-05SH_1x22-1MP4 reference designator to J4.
+Updated J4 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d1a321e.
+Updated J4 properties.
+Connected J4 pin 1 to GND.
+Add net /CM4_HighSpeed/CAM0_D0_N.
+Connected J4 pin 2 to /CM4_HighSpeed/CAM0_D0_N.
+Add net /CM4_HighSpeed/CAM0_D0_P.
+Connected J4 pin 3 to /CM4_HighSpeed/CAM0_D0_P.
+Connected J4 pin 4 to GND.
+Add net /CM4_HighSpeed/CAM0_D1_N.
+Connected J4 pin 5 to /CM4_HighSpeed/CAM0_D1_N.
+Add net /CM4_HighSpeed/CAM0_D1_P.
+Connected J4 pin 6 to /CM4_HighSpeed/CAM0_D1_P.
+Connected J4 pin 7 to GND.
+Add net /CM4_HighSpeed/CAM0_C_N.
+Connected J4 pin 8 to /CM4_HighSpeed/CAM0_C_N.
+Add net /CM4_HighSpeed/CAM0_C_P.
+Connected J4 pin 9 to /CM4_HighSpeed/CAM0_C_P.
+Connected J4 pin 10 to GND.
+Add net unconnected-(J4-Pin_11-Pad11).
+Connected J4 pin 11 to unconnected-(J4-Pin_11-Pad11).
+Add net unconnected-(J4-Pin_12-Pad12).
+Connected J4 pin 12 to unconnected-(J4-Pin_12-Pad12).
+Connected J4 pin 13 to GND.
+Add net unconnected-(J4-Pin_14-Pad14).
+Connected J4 pin 14 to unconnected-(J4-Pin_14-Pad14).
+Add net unconnected-(J4-Pin_15-Pad15).
+Connected J4 pin 15 to unconnected-(J4-Pin_15-Pad15).
+Connected J4 pin 16 to GND.
+Add net /CM4_HighSpeed/CAM_GPIO.
+Connected J4 pin 17 to /CM4_HighSpeed/CAM_GPIO.
+Add net unconnected-(J4-Pin_18-Pad18).
+Connected J4 pin 18 to unconnected-(J4-Pin_18-Pad18).
+Connected J4 pin 19 to GND.
+Add net /CM4_HighSpeed/SCL1.
+Connected J4 pin 20 to /CM4_HighSpeed/SCL1.
+Add net /CM4_HighSpeed/SDA1.
+Connected J4 pin 21 to /CM4_HighSpeed/SDA1.
+Connected J4 pin 22 to /+3.3v.
+Connected Y2 pin 1 to Net-(U8-OSCO).
+Updated Y2 properties.
+Updated C9 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3c68c5.
+Added J5 (footprint 'CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal').
+Changed HirsoeFH12-22S-05SH_1x22-1MP4 reference designator to J5.
+Updated J5 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d669a9a.
+Updated J5 properties.
+Connected J5 pin 1 to GND.
+Add net /CM4_HighSpeed/CAM1_D0_N.
+Connected J5 pin 2 to /CM4_HighSpeed/CAM1_D0_N.
+Add net /CM4_HighSpeed/CAM1_D0_P.
+Connected J5 pin 3 to /CM4_HighSpeed/CAM1_D0_P.
+Connected J5 pin 4 to GND.
+Add net /CM4_HighSpeed/CAM1_D1_N.
+Connected J5 pin 5 to /CM4_HighSpeed/CAM1_D1_N.
+Add net /CM4_HighSpeed/CAM1_D1_P.
+Connected J5 pin 6 to /CM4_HighSpeed/CAM1_D1_P.
+Connected J5 pin 7 to GND.
+Add net /CM4_HighSpeed/CAM1_C_N.
+Connected J5 pin 8 to /CM4_HighSpeed/CAM1_C_N.
+Add net /CM4_HighSpeed/CAM1_C_P.
+Connected J5 pin 9 to /CM4_HighSpeed/CAM1_C_P.
+Connected J5 pin 10 to GND.
+Add net /CM4_HighSpeed/CAM1_D2_N.
+Connected J5 pin 11 to /CM4_HighSpeed/CAM1_D2_N.
+Add net /CM4_HighSpeed/CAM1_D2_P.
+Connected J5 pin 12 to /CM4_HighSpeed/CAM1_D2_P.
+Connected J5 pin 13 to GND.
+Add net /CM4_HighSpeed/CAM1_D3_N.
+Connected J5 pin 14 to /CM4_HighSpeed/CAM1_D3_N.
+Add net /CM4_HighSpeed/CAM1_D3_P.
+Connected J5 pin 15 to /CM4_HighSpeed/CAM1_D3_P.
+Connected J5 pin 16 to GND.
+Connected J5 pin 17 to /CM4_HighSpeed/CAM_GPIO.
+Add net unconnected-(J5-Pin_18-Pad18).
+Connected J5 pin 18 to unconnected-(J5-Pin_18-Pad18).
+Connected J5 pin 19 to GND.
+Add net /CM4_HighSpeed/SCL0.
+Connected J5 pin 20 to /CM4_HighSpeed/SCL0.
+Add net /CM4_HighSpeed/SDA0.
+Connected J5 pin 21 to /CM4_HighSpeed/SDA0.
+Connected J5 pin 22 to /+3.3v.
+Updated Y2 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e8e1392.
+Changed Y2 value from Crystal_SMD_3215-2Pin_3.2x1.5mm to X32K768S301.
+Changed C9 value from C_0402_1005Metric to 27pF.
+Added J6 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Changed REF** reference designator to J6.
+Changed J6 value from PinHeader_2x02_P2.54mm_Vertical to THD-02-R.
+Updated J6 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005e67855b.
+Updated J6 properties.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SC.
+Connected J6 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SC.
+Connected J6 pin 2 to /CM4_HighSpeed/SCL1.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SD.
+Connected J6 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SD.
+Connected J6 pin 4 to /CM4_HighSpeed/SDA1.
+Changed REF** reference designator to C9.
+Added J7 (footprint 'CM4IO:SDCARD_MOLEX_503398-1892').
+Changed REF** reference designator to J7.
+Changed J7 value from SDCARD_MOLEX_503398-1892 to Micro_SD_Card_Det.
+Updated J7 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e5f7d43.
+Updated J7 properties.
+Add net Net-(J7-DET_A).
+Connected J7 pin 10 to Net-(J7-DET_A).
+Add net Net-(J7-DET_B).
+Connected J7 pin 9 to Net-(J7-DET_B).
+Connected J7 pin 11 to GND.
+Connected J7 pin 11 to GND.
+Connected J7 pin 11 to GND.
+Connected J7 pin 11 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT1.
+Connected J7 pin 8 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT1.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT0.
+Connected J7 pin 7 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT0.
+Connected J7 pin 6 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CLK.
+Connected J7 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CLK.
+Connected J7 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CMD.
+Connected J7 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CMD.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT3.
+Connected J7 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT3.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT2.
+Connected J7 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT2.
+Added C9 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added J8 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical').
+Changed REF** reference designator to J8.
+Changed J8 value from PinHeader_2x20_P2.54mm_Vertical to THD-20-R.
+Updated J8 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dd3ddee.
+Updated J8 properties.
+Connected J8 pin 1 to /+3.3v.
+Connected J8 pin 2 to /+5v.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO2.
+Connected J8 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO2.
+Connected J8 pin 4 to /+5v.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO3.
+Connected J8 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO3.
+Connected J8 pin 6 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO4.
+Connected J8 pin 7 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO4.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO14.
+Connected J8 pin 8 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO14.
+Connected J8 pin 9 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO15.
+Connected J8 pin 10 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO15.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO17.
+Connected J8 pin 11 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO17.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO18.
+Connected J8 pin 12 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO18.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO27.
+Connected J8 pin 13 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO27.
+Connected J8 pin 14 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO22.
+Connected J8 pin 15 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO22.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO23.
+Connected J8 pin 16 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO23.
+Connected J8 pin 17 to /+3.3v.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO24.
+Connected J8 pin 18 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO24.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO10.
+Connected J8 pin 19 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO10.
+Connected J8 pin 20 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO9.
+Connected J8 pin 21 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO9.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO25.
+Connected J8 pin 22 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO25.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO11.
+Connected J8 pin 23 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO11.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO8.
+Connected J8 pin 24 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO8.
+Connected J8 pin 25 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO7.
+Connected J8 pin 26 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO7.
+Connected J8 pin 27 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SD.
+Connected J8 pin 28 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SC.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO5.
+Connected J8 pin 29 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO5.
+Connected J8 pin 30 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO6.
+Connected J8 pin 31 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO6.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO12.
+Connected J8 pin 32 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO12.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO13.
+Connected J8 pin 33 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO13.
+Connected J8 pin 34 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO19.
+Connected J8 pin 35 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO19.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO16.
+Connected J8 pin 36 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO16.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO26.
+Connected J8 pin 37 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO26.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO20.
+Connected J8 pin 38 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO20.
+Connected J8 pin 39 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO21.
+Connected J8 pin 40 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO21.
+Connected C8 pin 2 to GND.
+Added J9 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical').
+Changed REF** reference designator to J9.
+Changed J9 value from PinHeader_2x02_P2.54mm_Vertical to THD-02-R.
+Updated J9 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dd09d38.
+Updated J9 properties.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR1_TAP.
+Connected J9 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR1_TAP.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR2_TAP.
+Connected J9 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR2_TAP.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR0_TAP.
+Connected J9 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR0_TAP.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR3_TAP.
+Connected J9 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR3_TAP.
+Connected C8 pin 1 to Net-(U6-XTALIN/CLKIN).
+Added J10 (footprint 'CM4IO:EDAC 690-019-298-412').
+Changed EDAC 690-019-298-412 reference designator to J10.
+Changed J10 value from VAL** to 690-019-298-412.
+Updated J10 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d85c63e.
+Updated J10 properties.
+Connected J10 pin SH4 to GND.
+Connected J10 pin SH3 to GND.
+Connected J10 pin SH2 to GND.
+Connected J10 pin SH1 to GND.
+Add net /CM4_HighSpeed/HDMI1_HOTPLUG.
+Connected J10 pin 19 to /CM4_HighSpeed/HDMI1_HOTPLUG.
+Connected J10 pin 18 to /CM4_HighSpeed/HDMI_5v.
+Connected J10 pin 17 to GND.
+Add net /CM4_HighSpeed/HDMI1_SDA.
+Connected J10 pin 16 to /CM4_HighSpeed/HDMI1_SDA.
+Add net /CM4_HighSpeed/HDMI1_SCL.
+Connected J10 pin 15 to /CM4_HighSpeed/HDMI1_SCL.
+Add net unconnected-(J10-UTILITY/HEAC+-Pad14).
+Connected J10 pin 14 to unconnected-(J10-UTILITY/HEAC+-Pad14).
+Add net /CM4_HighSpeed/HDMI1_CEC.
+Connected J10 pin 13 to /CM4_HighSpeed/HDMI1_CEC.
+Add net /CM4_HighSpeed/HDMI1_CK_N.
+Connected J10 pin 12 to /CM4_HighSpeed/HDMI1_CK_N.
+Connected J10 pin 11 to GND.
+Add net /CM4_HighSpeed/HDMI1_CK_P.
+Connected J10 pin 10 to /CM4_HighSpeed/HDMI1_CK_P.
+Add net /CM4_HighSpeed/HDMI1_D0_N.
+Connected J10 pin 9 to /CM4_HighSpeed/HDMI1_D0_N.
+Connected J10 pin 8 to GND.
+Add net /CM4_HighSpeed/HDMI1_D0_P.
+Connected J10 pin 7 to /CM4_HighSpeed/HDMI1_D0_P.
+Add net /CM4_HighSpeed/HDMI1_D1_N.
+Connected J10 pin 6 to /CM4_HighSpeed/HDMI1_D1_N.
+Connected J10 pin 5 to GND.
+Add net /CM4_HighSpeed/HDMI1_D1_P.
+Connected J10 pin 4 to /CM4_HighSpeed/HDMI1_D1_P.
+Add net /CM4_HighSpeed/HDMI1_D2_N.
+Connected J10 pin 3 to /CM4_HighSpeed/HDMI1_D2_N.
+Connected J10 pin 2 to GND.
+Add net /CM4_HighSpeed/HDMI1_D2_P.
+Connected J10 pin 1 to /CM4_HighSpeed/HDMI1_D2_P.
+Add net Net-(U6-XTALIN/CLKIN).
+Added J11 (footprint 'CM4IO:USB_Micro-B_EDAC_UCON00686').
+Changed REF** reference designator to J11.
+Changed J11 value from USB_Micro-B_EDAC_UCON00686 to USB_OTG.
+Updated J11 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d3a5999.
+Updated J11 properties.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Add net Net-(J11-VBUS).
+Connected J11 pin 1 to Net-(J11-VBUS).
+Add net /USB2-HUB/USBD_N.
+Connected J11 pin 2 to /USB2-HUB/USBD_N.
+Add net /USB2-HUB/USBD_P.
+Connected J11 pin 3 to /USB2-HUB/USBD_P.
+Add net unconnected-(J11-ID-Pad4).
+Connected J11 pin 4 to unconnected-(J11-ID-Pad4).
+Connected J11 pin 5 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Connected J11 pin 6 to GND.
+Updated C8 properties.
+Added J12 (footprint 'CM4IO:PCIex1-36').
+Changed REF** reference designator to J12.
+Changed J12 value from PCIex1-36 to 10018783-11200TLF.
+Updated J12 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005ed4ec99.
+Updated J12 properties.
+Add net unconnected-(J12-nPRSNT1-PadA1).
+Connected J12 pin A1 to unconnected-(J12-nPRSNT1-PadA1).
+Connected J12 pin A2 to /+12v.
+Connected J12 pin A3 to /+12v.
+Connected J12 pin A4 to GND.
+Connected J12 pin A5 to /PCIe-connector/+3.3v.
+Connected J12 pin A6 to /PCIe-connector/+3.3v.
+Add net unconnected-(J12-TD0-PadA7).
+Connected J12 pin A7 to unconnected-(J12-TD0-PadA7).
+Connected J12 pin A8 to /PCIe-connector/+3.3v.
+Connected J12 pin A9 to /PCIe-connector/+3.3v.
+Connected J12 pin A10 to /PCIe-connector/+3.3v.
+Add net /CM4_HighSpeed/PCIE_nRST.
+Connected J12 pin A11 to /CM4_HighSpeed/PCIE_nRST.
+Connected J12 pin A12 to GND.
+Add net /CM4_HighSpeed/PCIE_CLK_P.
+Connected J12 pin A13 to /CM4_HighSpeed/PCIE_CLK_P.
+Add net /CM4_HighSpeed/PCIE_CLK_N.
+Connected J12 pin A14 to /CM4_HighSpeed/PCIE_CLK_N.
+Connected J12 pin A15 to GND.
+Add net /CM4_HighSpeed/PCIE_RX_N.
+Connected J12 pin A16 to /CM4_HighSpeed/PCIE_RX_N.
+Add net /CM4_HighSpeed/PCIE_RX_P.
+Connected J12 pin A17 to /CM4_HighSpeed/PCIE_RX_P.
+Connected J12 pin A18 to GND.
+Connected J12 pin B1 to /+12v.
+Connected J12 pin B2 to /+12v.
+Connected J12 pin B3 to /+12v.
+Connected J12 pin B4 to GND.
+Add net unconnected-(J12-SMCLK-PadB5).
+Connected J12 pin B5 to unconnected-(J12-SMCLK-PadB5).
+Add net unconnected-(J12-SMDAT-PadB6).
+Connected J12 pin B6 to unconnected-(J12-SMDAT-PadB6).
+Connected J12 pin B7 to GND.
+Connected J12 pin B8 to /PCIe-connector/+3.3v.
+Connected J12 pin B9 to /PCIe-connector/+3.3v.
+Connected J12 pin B10 to /PCIe-connector/+3.3v.
+Add net unconnected-(J12-nWAKE-PadB11).
+Connected J12 pin B11 to unconnected-(J12-nWAKE-PadB11).
+Add net /CM4_HighSpeed/PCIE_CLK_nREQ.
+Connected J12 pin B12 to /CM4_HighSpeed/PCIE_CLK_nREQ.
+Connected J12 pin B13 to GND.
+Add net /CM4_HighSpeed/PCIE_TX_N.
+Connected J12 pin B14 to /CM4_HighSpeed/PCIE_TX_N.
+Add net /CM4_HighSpeed/PCIE_TX_P.
+Connected J12 pin B15 to /CM4_HighSpeed/PCIE_TX_P.
+Connected J12 pin B16 to GND.
+Add net unconnected-(J12-nPRSNT2-PadB17).
+Connected J12 pin B17 to unconnected-(J12-nPRSNT2-PadB17).
+Connected J12 pin B18 to GND.
+Changed REF** reference designator to Y2.
+Added Y2 (footprint 'Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm').
+Updated C8 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3c619a.
+Added J13 (footprint 'CM4IO:MOLEX_USB_67298-4090').
+Changed MOLEX_67298-4090 reference designator to J13.
+Changed J13 value from VAL** to 690-008-221-904.
+Updated J13 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d252475.
+Updated J13 properties.
+Connected J13 pin 1 to /USB2-HUB/VBUS.
+Add net /USB2-HUB/HD1_N.
+Connected J13 pin 2 to /USB2-HUB/HD1_N.
+Add net /USB2-HUB/HD1_P.
+Connected J13 pin 3 to /USB2-HUB/HD1_P.
+Connected J13 pin 4 to GND.
+Connected J13 pin 5 to /USB2-HUB/VBUS.
+Add net /USB2-HUB/HD2_N.
+Connected J13 pin 6 to /USB2-HUB/HD2_N.
+Add net /USB2-HUB/HD2_P.
+Connected J13 pin 7 to /USB2-HUB/HD2_P.
+Connected J13 pin 8 to GND.
+Connected J13 pin MT3 to GND.
+Connected J13 pin MT1 to GND.
+Connected J13 pin MT4 to GND.
+Connected J13 pin MT2 to GND.
+Changed C8 value from C_0402_1005Metric to 27pF.
+Added J14 (footprint 'Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical').
+Changed REF** reference designator to J14.
+Changed J14 value from PinHeader_2x05_P2.54mm_Vertical to Conn_02x05_Odd_Even.
+Updated J14 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d36716d.
+Updated J14 properties.
+Connected J14 pin 1 to /USB2-HUB/VBUS.
+Connected J14 pin 2 to /USB2-HUB/VBUS.
+Add net /USB2-HUB/HD3_N.
+Connected J14 pin 3 to /USB2-HUB/HD3_N.
+Add net /USB2-HUB/HD4_N.
+Connected J14 pin 4 to /USB2-HUB/HD4_N.
+Add net /USB2-HUB/HD3_P.
+Connected J14 pin 5 to /USB2-HUB/HD3_P.
+Add net /USB2-HUB/HD4_P.
+Connected J14 pin 6 to /USB2-HUB/HD4_P.
+Connected J14 pin 7 to GND.
+Connected J14 pin 8 to GND.
+Add net unconnected-(J14-Pin_9-Pad9).
+Connected J14 pin 9 to unconnected-(J14-Pin_9-Pad9).
+Add net unconnected-(J14-Pin_10-Pad10).
+Connected J14 pin 10 to unconnected-(J14-Pin_10-Pad10).
+Changed REF** reference designator to C8.
+Added J15 (footprint 'CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal').
+Changed HirsoeFH12-22S-05SH_1x22-1MP4 reference designator to J15.
+Updated J15 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d66abfe.
+Updated J15 properties.
+Connected J15 pin 1 to GND.
+Add net /CM4_HighSpeed/DSI0_D0_N.
+Connected J15 pin 2 to /CM4_HighSpeed/DSI0_D0_N.
+Add net /CM4_HighSpeed/DSI0_D0_P.
+Connected J15 pin 3 to /CM4_HighSpeed/DSI0_D0_P.
+Connected J15 pin 4 to GND.
+Add net /CM4_HighSpeed/DSI0_D1_N.
+Connected J15 pin 5 to /CM4_HighSpeed/DSI0_D1_N.
+Add net /CM4_HighSpeed/DSI0_D1_P.
+Connected J15 pin 6 to /CM4_HighSpeed/DSI0_D1_P.
+Connected J15 pin 7 to GND.
+Add net /CM4_HighSpeed/DSI0_C_N.
+Connected J15 pin 8 to /CM4_HighSpeed/DSI0_C_N.
+Add net /CM4_HighSpeed/DSI0_C_P.
+Connected J15 pin 9 to /CM4_HighSpeed/DSI0_C_P.
+Connected J15 pin 10 to GND.
+Add net unconnected-(J15-Pin_11-Pad11).
+Connected J15 pin 11 to unconnected-(J15-Pin_11-Pad11).
+Add net unconnected-(J15-Pin_12-Pad12).
+Connected J15 pin 12 to unconnected-(J15-Pin_12-Pad12).
+Connected J15 pin 13 to GND.
+Add net unconnected-(J15-Pin_14-Pad14).
+Connected J15 pin 14 to unconnected-(J15-Pin_14-Pad14).
+Add net unconnected-(J15-Pin_15-Pad15).
+Connected J15 pin 15 to unconnected-(J15-Pin_15-Pad15).
+Connected J15 pin 16 to GND.
+Add net unconnected-(J15-Pin_17-Pad17).
+Connected J15 pin 17 to unconnected-(J15-Pin_17-Pad17).
+Add net unconnected-(J15-Pin_18-Pad18).
+Connected J15 pin 18 to unconnected-(J15-Pin_18-Pad18).
+Connected J15 pin 19 to GND.
+Connected J15 pin 20 to /CM4_HighSpeed/SCL1.
+Connected J15 pin 21 to /CM4_HighSpeed/SDA1.
+Connected J15 pin 22 to /+3.3v.
+Added BT1 (footprint 'Battery:BatteryHolder_Keystone_3034_1x20mm').
+Connected Y1 pin 2 to Net-(U6-XTALOUT).
+Added C8 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added J16 (footprint 'CM4IO:Hirose_FH12-22S-0.5SH_1x22-1MP_P0.50mm_Horizontal').
+Changed HirsoeFH12-22S-05SH_1x22-1MP4 reference designator to J16.
+Updated J16 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d66c6e8.
+Updated J16 properties.
+Connected J16 pin 1 to GND.
+Add net /CM4_HighSpeed/DSI1_D0_N.
+Connected J16 pin 2 to /CM4_HighSpeed/DSI1_D0_N.
+Add net /CM4_HighSpeed/DSI1_D0_P.
+Connected J16 pin 3 to /CM4_HighSpeed/DSI1_D0_P.
+Connected J16 pin 4 to GND.
+Add net /CM4_HighSpeed/DSI1_D1_N.
+Connected J16 pin 5 to /CM4_HighSpeed/DSI1_D1_N.
+Add net /CM4_HighSpeed/DSI1_D1_P.
+Connected J16 pin 6 to /CM4_HighSpeed/DSI1_D1_P.
+Connected J16 pin 7 to GND.
+Add net /CM4_HighSpeed/DSI1_C_N.
+Connected J16 pin 8 to /CM4_HighSpeed/DSI1_C_N.
+Add net /CM4_HighSpeed/DSI1_C_P.
+Connected J16 pin 9 to /CM4_HighSpeed/DSI1_C_P.
+Connected J16 pin 10 to GND.
+Add net /CM4_HighSpeed/DSI1_D2_N.
+Connected J16 pin 11 to /CM4_HighSpeed/DSI1_D2_N.
+Add net /CM4_HighSpeed/DSI1_D2_P.
+Connected J16 pin 12 to /CM4_HighSpeed/DSI1_D2_P.
+Connected J16 pin 13 to GND.
+Add net /CM4_HighSpeed/DSI1_D3_N.
+Connected J16 pin 14 to /CM4_HighSpeed/DSI1_D3_N.
+Add net /CM4_HighSpeed/DSI1_D3_P.
+Connected J16 pin 15 to /CM4_HighSpeed/DSI1_D3_P.
+Connected J16 pin 16 to GND.
+Add net unconnected-(J16-Pin_17-Pad17).
+Connected J16 pin 17 to unconnected-(J16-Pin_17-Pad17).
+Add net unconnected-(J16-Pin_18-Pad18).
+Connected J16 pin 18 to unconnected-(J16-Pin_18-Pad18).
+Connected J16 pin 19 to GND.
+Connected J16 pin 20 to /CM4_HighSpeed/SCL0.
+Connected J16 pin 21 to /CM4_HighSpeed/SDA0.
+Connected J16 pin 22 to /+3.3v.
+Connected Y1 pin 1 to Net-(U6-XTALIN/CLKIN).
+Updated Y1 properties.
+Connected C7 pin 2 to GND.
+Added J17 (footprint 'Connector:FanPinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to J17.
+Changed J17 value from FanPinHeader_1x04_P2.54mm_Vertical to Molex 470531000.
+Updated J17 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0e2a28.
+Updated J17 properties.
+Connected J17 pin 1 to GND.
+Connected J17 pin 2 to /+12v.
+Add net Net-(J17-Pin_3).
+Connected J17 pin 3 to Net-(J17-Pin_3).
+Add net Net-(J17-Pin_4).
+Connected J17 pin 4 to Net-(J17-Pin_4).
+Connected C7 pin 1 to /+3.3v.
+Added J19 (footprint 'CM4IO:BarrelJack_Horizontal').
+Updated J19 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005d787bd9.
+Updated J19 properties.
+Connected J19 pin 1 to Net-(Q1-D).
+Connected J19 pin 2 to GND.
+Connected J19 pin 3 to GND.
+Updated C7 properties.
+Updated Y1 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3c5b00.
+Updated C7 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3b2653.
+Added J22 (footprint 'CM4IO:EDAC 690-019-298-412').
+Changed EDAC 690-019-298-412 reference designator to J22.
+Changed J22 value from VAL** to 690-019-298-412.
+Updated J22 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d807cc9.
+Updated J22 properties.
+Connected J22 pin SH4 to GND.
+Connected J22 pin SH3 to GND.
+Connected J22 pin SH2 to GND.
+Connected J22 pin SH1 to GND.
+Add net /CM4_HighSpeed/HDMI0_HOTPLUG.
+Connected J22 pin 19 to /CM4_HighSpeed/HDMI0_HOTPLUG.
+Connected J22 pin 18 to /CM4_HighSpeed/HDMI_5v.
+Connected J22 pin 17 to GND.
+Add net /CM4_HighSpeed/HDMI0_SDA.
+Connected J22 pin 16 to /CM4_HighSpeed/HDMI0_SDA.
+Add net /CM4_HighSpeed/HDMI0_SCL.
+Connected J22 pin 15 to /CM4_HighSpeed/HDMI0_SCL.
+Add net unconnected-(J22-UTILITY/HEAC+-Pad14).
+Connected J22 pin 14 to unconnected-(J22-UTILITY/HEAC+-Pad14).
+Add net /CM4_HighSpeed/HDMI0_CEC.
+Connected J22 pin 13 to /CM4_HighSpeed/HDMI0_CEC.
+Add net /CM4_HighSpeed/HDMI0_CK_N.
+Connected J22 pin 12 to /CM4_HighSpeed/HDMI0_CK_N.
+Connected J22 pin 11 to GND.
+Add net /CM4_HighSpeed/HDMI0_CK_P.
+Connected J22 pin 10 to /CM4_HighSpeed/HDMI0_CK_P.
+Add net /CM4_HighSpeed/HDMI0_D0_N.
+Connected J22 pin 9 to /CM4_HighSpeed/HDMI0_D0_N.
+Connected J22 pin 8 to GND.
+Add net /CM4_HighSpeed/HDMI0_D0_P.
+Connected J22 pin 7 to /CM4_HighSpeed/HDMI0_D0_P.
+Add net /CM4_HighSpeed/HDMI0_D1_N.
+Connected J22 pin 6 to /CM4_HighSpeed/HDMI0_D1_N.
+Connected J22 pin 5 to GND.
+Add net /CM4_HighSpeed/HDMI0_D1_P.
+Connected J22 pin 4 to /CM4_HighSpeed/HDMI0_D1_P.
+Add net /CM4_HighSpeed/HDMI0_D2_N.
+Connected J22 pin 3 to /CM4_HighSpeed/HDMI0_D2_N.
+Connected J22 pin 2 to GND.
+Add net /CM4_HighSpeed/HDMI0_D2_P.
+Connected J22 pin 1 to /CM4_HighSpeed/HDMI0_D2_P.
+Changed C7 value from C_0402_1005Metric to 100n.
+Added L3 (footprint 'Inductor_SMD:L_Bourns_SRN6045TA').
+Changed REF** reference designator to L3.
+Changed L3 value from L_Bourns_SRN6045TA to SRN6045TA-3R3Y.
+Updated L3 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489fd5.
+Updated L3 properties.
+Add net Net-(U15-SW).
+Connected L3 pin 1 to Net-(U15-SW).
+Connected L3 pin 2 to /PCIe-connector/+3.3v.
+Changed REF** reference designator to C7.
+Added L5 (footprint 'Inductor_SMD:L_Bourns_SRN6045TA').
+Changed REF** reference designator to L5.
+Changed L5 value from L_Bourns_SRN6045TA to SRN6045TA-3R3Y.
+Updated L5 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df6.
+Updated L5 properties.
+Add net Net-(U16-SW).
+Connected L5 pin 1 to Net-(U16-SW).
+Connected L5 pin 2 to /+5v.
+Added C7 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added Module1 (footprint 'CM4IO:Raspberry-Pi-4-Compute-Module').
+Changed REF** reference designator to Module1.
+Changed Module1 value from Raspberry-Pi-4-Compute-Module to ComputeModule4.
+Updated Module1 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005e471fb9.
+Updated Module1 properties.
+Connected Module1 pin 1 to GND.
+Connected Module1 pin 2 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_P.
+Connected Module1 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_P.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_P.
+Connected Module1 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_P.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_N.
+Connected Module1 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_N.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_N.
+Connected Module1 pin 6 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_N.
+Connected Module1 pin 7 to GND.
+Connected Module1 pin 8 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_N.
+Connected Module1 pin 9 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_N.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_N.
+Connected Module1 pin 10 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_N.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_P.
+Connected Module1 pin 11 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_P.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_P.
+Connected Module1 pin 12 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_P.
+Connected Module1 pin 13 to GND.
+Connected Module1 pin 14 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDY.
+Connected Module1 pin 15 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDY.
+Connected Module1 pin 16 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_IN.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDG.
+Connected Module1 pin 17 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDG.
+Connected Module1 pin 18 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SYNC_OUT.
+Add net unconnected-(Module1A-Ethernet_nLED1(3.3v)-Pad19).
+Connected Module1 pin 19 to unconnected-(Module1A-Ethernet_nLED1(3.3v)-Pad19).
+Connected Module1 pin 20 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/EEPROM_nWP.
+Add net Net-(Module1A-PI_nLED_Activity).
+Connected Module1 pin 21 to Net-(Module1A-PI_nLED_Activity).
+Connected Module1 pin 22 to GND.
+Connected Module1 pin 23 to GND.
+Connected Module1 pin 24 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO26.
+Connected Module1 pin 25 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO21.
+Connected Module1 pin 26 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO19.
+Connected Module1 pin 27 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO20.
+Connected Module1 pin 28 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO13.
+Connected Module1 pin 29 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO16.
+Connected Module1 pin 30 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO6.
+Connected Module1 pin 31 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO12.
+Connected Module1 pin 32 to GND.
+Connected Module1 pin 33 to GND.
+Connected Module1 pin 34 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO5.
+Connected Module1 pin 35 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SC.
+Connected Module1 pin 36 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ID_SD.
+Connected Module1 pin 37 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO7.
+Connected Module1 pin 38 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO11.
+Connected Module1 pin 39 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO8.
+Connected Module1 pin 40 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO9.
+Connected Module1 pin 41 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO25.
+Connected Module1 pin 42 to GND.
+Connected Module1 pin 43 to GND.
+Connected Module1 pin 44 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO10.
+Connected Module1 pin 45 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO24.
+Connected Module1 pin 46 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO22.
+Connected Module1 pin 47 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO23.
+Connected Module1 pin 48 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO27.
+Connected Module1 pin 49 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO18.
+Connected Module1 pin 50 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO17.
+Connected Module1 pin 51 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO15.
+Connected Module1 pin 52 to GND.
+Connected Module1 pin 53 to GND.
+Connected Module1 pin 54 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO4.
+Connected Module1 pin 55 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO14.
+Connected Module1 pin 56 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO3.
+Connected Module1 pin 57 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CLK.
+Connected Module1 pin 58 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO2.
+Connected Module1 pin 59 to GND.
+Connected Module1 pin 60 to GND.
+Connected Module1 pin 61 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT3.
+Connected Module1 pin 62 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_CMD.
+Connected Module1 pin 63 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT0.
+Add net unconnected-(Module1A-SD_DAT5-Pad64).
+Connected Module1 pin 64 to unconnected-(Module1A-SD_DAT5-Pad64).
+Connected Module1 pin 65 to GND.
+Connected Module1 pin 66 to GND.
+Connected Module1 pin 67 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT1.
+Add net unconnected-(Module1A-SD_DAT4-Pad68).
+Connected Module1 pin 68 to unconnected-(Module1A-SD_DAT4-Pad68).
+Connected Module1 pin 69 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_DAT2.
+Add net unconnected-(Module1A-SD_DAT7-Pad70).
+Connected Module1 pin 70 to unconnected-(Module1A-SD_DAT7-Pad70).
+Connected Module1 pin 71 to GND.
+Add net unconnected-(Module1A-SD_DAT6-Pad72).
+Connected Module1 pin 72 to unconnected-(Module1A-SD_DAT6-Pad72).
+Add net unconnected-(Module1A-SD_VDD_Override-Pad73).
+Connected Module1 pin 73 to unconnected-(Module1A-SD_VDD_Override-Pad73).
+Connected Module1 pin 74 to GND.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR_ON.
+Connected Module1 pin 75 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR_ON.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/Reserved.
+Connected Module1 pin 76 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/Reserved.
+Connected Module1 pin 77 to /+5v.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO_VREF.
+Connected Module1 pin 78 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO_VREF.
+Connected Module1 pin 79 to /+5v.
+Connected Module1 pin 80 to /CM4_HighSpeed/SCL0.
+Connected Module1 pin 81 to /+5v.
+Connected Module1 pin 82 to /CM4_HighSpeed/SDA0.
+Connected Module1 pin 83 to /+5v.
+Connected Module1 pin 84 to /+3.3v.
+Connected Module1 pin 85 to /+5v.
+Connected Module1 pin 86 to /+3.3v.
+Connected Module1 pin 87 to /+5v.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/+1.8v.
+Connected Module1 pin 88 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/+1.8v.
+Connected Module1 pin 89 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/WL_nDis.
+Connected Module1 pin 90 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/+1.8v.
+Connected Module1 pin 91 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/BT_nDis.
+Connected Module1 pin 92 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/RUN_PG.
+Connected Module1 pin 93 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nRPIBOOT.
+Connected Module1 pin 94 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN1.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nPWR_LED.
+Connected Module1 pin 95 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nPWR_LED.
+Connected Module1 pin 96 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/AIN0.
+Connected Module1 pin 97 to /CM4_HighSpeed/CAM_GPIO.
+Connected Module1 pin 98 to GND.
+Connected Module1 pin 99 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GLOBAL_EN.
+Add net /nEXTRST.
+Connected Module1 pin 100 to /nEXTRST.
+Add net /CM4_HighSpeed/USBOTG_ID.
+Connected Module1 pin 101 to /CM4_HighSpeed/USBOTG_ID.
+Connected Module1 pin 102 to /CM4_HighSpeed/PCIE_CLK_nREQ.
+Add net /CM4_HighSpeed/USB2_N.
+Connected Module1 pin 103 to /CM4_HighSpeed/USB2_N.
+Add net unconnected-(Module1B-Reserved-Pad104).
+Connected Module1 pin 104 to unconnected-(Module1B-Reserved-Pad104).
+Add net /CM4_HighSpeed/USB2_P.
+Connected Module1 pin 105 to /CM4_HighSpeed/USB2_P.
+Add net unconnected-(Module1B-Reserved-Pad106).
+Connected Module1 pin 106 to unconnected-(Module1B-Reserved-Pad106).
+Connected Module1 pin 107 to GND.
+Connected Module1 pin 108 to GND.
+Connected Module1 pin 109 to /CM4_HighSpeed/PCIE_nRST.
+Connected Module1 pin 110 to /CM4_HighSpeed/PCIE_CLK_P.
+Connected Module1 pin 111 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TV_OUT.
+Connected Module1 pin 112 to /CM4_HighSpeed/PCIE_CLK_N.
+Connected Module1 pin 113 to GND.
+Connected Module1 pin 114 to GND.
+Connected Module1 pin 115 to /CM4_HighSpeed/CAM1_D0_N.
+Connected Module1 pin 116 to /CM4_HighSpeed/PCIE_RX_P.
+Connected Module1 pin 117 to /CM4_HighSpeed/CAM1_D0_P.
+Connected Module1 pin 118 to /CM4_HighSpeed/PCIE_RX_N.
+Connected Module1 pin 119 to GND.
+Connected Module1 pin 120 to GND.
+Connected Module1 pin 121 to /CM4_HighSpeed/CAM1_D1_N.
+Connected Module1 pin 122 to /CM4_HighSpeed/PCIE_TX_P.
+Connected Module1 pin 123 to /CM4_HighSpeed/CAM1_D1_P.
+Connected Module1 pin 124 to /CM4_HighSpeed/PCIE_TX_N.
+Connected Module1 pin 125 to GND.
+Connected Module1 pin 126 to GND.
+Connected Module1 pin 127 to /CM4_HighSpeed/CAM1_C_N.
+Connected Module1 pin 128 to /CM4_HighSpeed/CAM0_D0_N.
+Connected Module1 pin 129 to /CM4_HighSpeed/CAM1_C_P.
+Connected Module1 pin 130 to /CM4_HighSpeed/CAM0_D0_P.
+Connected Module1 pin 131 to GND.
+Connected Module1 pin 132 to GND.
+Connected Module1 pin 133 to /CM4_HighSpeed/CAM1_D2_N.
+Connected Module1 pin 134 to /CM4_HighSpeed/CAM0_D1_N.
+Connected Module1 pin 135 to /CM4_HighSpeed/CAM1_D2_P.
+Connected Module1 pin 136 to /CM4_HighSpeed/CAM0_D1_P.
+Connected Module1 pin 137 to GND.
+Connected Module1 pin 138 to GND.
+Connected Module1 pin 139 to /CM4_HighSpeed/CAM1_D3_N.
+Connected Module1 pin 140 to /CM4_HighSpeed/CAM0_C_N.
+Connected Module1 pin 141 to /CM4_HighSpeed/CAM1_D3_P.
+Connected Module1 pin 142 to /CM4_HighSpeed/CAM0_C_P.
+Connected Module1 pin 143 to /CM4_HighSpeed/HDMI1_HOTPLUG.
+Connected Module1 pin 144 to GND.
+Connected Module1 pin 145 to /CM4_HighSpeed/HDMI1_SDA.
+Connected Module1 pin 146 to /CM4_HighSpeed/HDMI1_D2_P.
+Connected Module1 pin 147 to /CM4_HighSpeed/HDMI1_SCL.
+Connected Module1 pin 148 to /CM4_HighSpeed/HDMI1_D2_N.
+Connected Module1 pin 149 to /CM4_HighSpeed/HDMI1_CEC.
+Connected Module1 pin 150 to GND.
+Connected Module1 pin 151 to /CM4_HighSpeed/HDMI0_CEC.
+Connected Module1 pin 152 to /CM4_HighSpeed/HDMI1_D1_P.
+Connected Module1 pin 153 to /CM4_HighSpeed/HDMI0_HOTPLUG.
+Connected Module1 pin 154 to /CM4_HighSpeed/HDMI1_D1_N.
+Connected Module1 pin 155 to GND.
+Connected Module1 pin 156 to GND.
+Connected Module1 pin 157 to /CM4_HighSpeed/DSI0_D0_N.
+Connected Module1 pin 158 to /CM4_HighSpeed/HDMI1_D0_P.
+Connected Module1 pin 159 to /CM4_HighSpeed/DSI0_D0_P.
+Connected Module1 pin 160 to /CM4_HighSpeed/HDMI1_D0_N.
+Connected Module1 pin 161 to GND.
+Connected Module1 pin 162 to GND.
+Connected Module1 pin 163 to /CM4_HighSpeed/DSI0_D1_N.
+Connected Module1 pin 164 to /CM4_HighSpeed/HDMI1_CK_P.
+Connected Module1 pin 165 to /CM4_HighSpeed/DSI0_D1_P.
+Connected Module1 pin 166 to /CM4_HighSpeed/HDMI1_CK_N.
+Connected Module1 pin 167 to GND.
+Connected Module1 pin 168 to GND.
+Connected Module1 pin 169 to /CM4_HighSpeed/DSI0_C_N.
+Connected Module1 pin 170 to /CM4_HighSpeed/HDMI0_D2_P.
+Connected Module1 pin 171 to /CM4_HighSpeed/DSI0_C_P.
+Connected Module1 pin 172 to /CM4_HighSpeed/HDMI0_D2_N.
+Connected Module1 pin 173 to GND.
+Connected Module1 pin 174 to GND.
+Connected Module1 pin 175 to /CM4_HighSpeed/DSI1_D0_N.
+Connected Module1 pin 176 to /CM4_HighSpeed/HDMI0_D1_P.
+Connected Module1 pin 177 to /CM4_HighSpeed/DSI1_D0_P.
+Connected Module1 pin 178 to /CM4_HighSpeed/HDMI0_D1_N.
+Connected Module1 pin 179 to GND.
+Connected Module1 pin 180 to GND.
+Connected Module1 pin 181 to /CM4_HighSpeed/DSI1_D1_N.
+Connected Module1 pin 182 to /CM4_HighSpeed/HDMI0_D0_P.
+Connected Module1 pin 183 to /CM4_HighSpeed/DSI1_D1_P.
+Connected Module1 pin 184 to /CM4_HighSpeed/HDMI0_D0_N.
+Connected Module1 pin 185 to GND.
+Connected Module1 pin 186 to GND.
+Connected Module1 pin 187 to /CM4_HighSpeed/DSI1_C_N.
+Connected Module1 pin 188 to /CM4_HighSpeed/HDMI0_CK_P.
+Connected Module1 pin 189 to /CM4_HighSpeed/DSI1_C_P.
+Connected Module1 pin 190 to /CM4_HighSpeed/HDMI0_CK_N.
+Connected Module1 pin 191 to GND.
+Connected Module1 pin 192 to GND.
+Connected Module1 pin 193 to /CM4_HighSpeed/DSI1_D2_N.
+Connected Module1 pin 194 to /CM4_HighSpeed/DSI1_D3_N.
+Connected Module1 pin 195 to /CM4_HighSpeed/DSI1_D2_P.
+Connected Module1 pin 196 to /CM4_HighSpeed/DSI1_D3_P.
+Connected Module1 pin 197 to GND.
+Connected Module1 pin 198 to GND.
+Connected Module1 pin 199 to /CM4_HighSpeed/HDMI0_SDA.
+Connected Module1 pin 200 to /CM4_HighSpeed/HDMI0_SCL.
+Connected C6 pin 2 to GND.
+Added Q1 (footprint 'Package_SON:Diodes_PowerDI3333-8').
+Changed REF** reference designator to Q1.
+Changed Q1 value from Diodes_PowerDI3333-8 to DMP3013SFV-7.
+Updated Q1 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005ea9b8ba.
+Updated Q1 properties.
+Connected Q1 pin 1 to /+12v.
+Connected Q1 pin 2 to /+12v.
+Connected Q1 pin 3 to /+12v.
+Connected Q1 pin 4 to Net-(D4-A).
+Connected Q1 pin 5 to Net-(Q1-D).
+Connected C6 pin 1 to /+3.3v.
+Added R1 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R1.
+Changed R1 value from R_0402_1005Metric to 1k.
+Updated R1 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e19768b.
+Updated R1 properties.
+Connected R1 pin 1 to Net-(D2-K).
+Connected R1 pin 2 to Net-(Module1A-PI_nLED_Activity).
+Updated C6 properties.
+Added R2 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R2.
+Changed R2 value from R_0402_1005Metric to 470R.
+Updated R2 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e09a5b2.
+Updated R2 properties.
+Add net Net-(U3-LEDG_K).
+Connected R2 pin 1 to Net-(U3-LEDG_K).
+Connected R2 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDG.
+Updated C6 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e3b8d2b.
+Added R3 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0402_1005Metric to 470R.
+Updated R3 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e0adefe.
+Updated R3 properties.
+Add net Net-(U3-LEDY_K).
+Connected R3 pin 1 to Net-(U3-LEDY_K).
+Connected R3 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/ETH_LEDY.
+Changed C6 value from C_0805_2012Metric to 10u.
+Changed Y1 value from Crystal_SMD_HC49-SD to 24MHz.
+Changed REF** reference designator to C6.
+Changed REF** reference designator to Y1.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R6 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R6.
+Changed R6 value from R_0402_1005Metric to 2.2K 1%.
+Updated R6 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d3423d2.
+Updated R6 properties.
+Connected R6 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO_VREF.
+Connected R6 pin 2 to /CM4_HighSpeed/SDA1.
+Connected C5 pin 2 to GND.
+Added R7 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R7.
+Changed R7 value from R_0402_1005Metric to 2.2K 1%.
+Updated R7 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005d343651.
+Updated R7 properties.
+Connected R7 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GPIO_VREF.
+Connected R7 pin 2 to /CM4_HighSpeed/SCL1.
+Connected C5 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR.
+Added R8 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R8.
+Changed R8 value from R_0402_1005Metric to 2.2K 1%.
+Updated R8 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d417c1b.
+Updated R8 properties.
+Connected R8 pin 1 to Net-(J11-VBUS).
+Connected R8 pin 2 to /CM4_HighSpeed/USBOTG_ID.
+Add net /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR.
+Added R9 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R9.
+Changed R9 value from R_0402_1005Metric to 10R.
+Updated R9 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df3.
+Updated R9 properties.
+Connected R9 pin 1 to Net-(U16-SW).
+Connected R9 pin 2 to Net-(C57-Pad1).
+Updated C5 properties.
+Added R10 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R10.
+Changed R10 value from R_0402_1005Metric to 1k.
+Updated R10 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e28664f.
+Updated R10 properties.
+Connected R10 pin 1 to Net-(D1-K).
+Add net Net-(R10-Pad2).
+Connected R10 pin 2 to Net-(R10-Pad2).
+Updated C5 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dda3560.
+Added R11 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R11.
+Changed R11 value from R_0402_1005Metric to 2.2K 1%.
+Updated R11 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005d615d09.
+Updated R11 properties.
+Connected R11 pin 1 to /CM4_HighSpeed/USBOTG_ID.
+Connected R11 pin 2 to GND.
+Changed C5 value from C_0805_2012Metric to 10u.
+Added R12 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R12.
+Changed R12 value from R_0402_1005Metric to 36K 1%.
+Updated R12 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db23a6d.
+Updated R12 properties.
+Add net Net-(U6-SCL/SMBCLK/CFG_SEL0).
+Connected R12 pin 1 to Net-(U6-SCL/SMBCLK/CFG_SEL0).
+Connected R12 pin 2 to GND.
+Changed REF** reference designator to C5.
+Added R13 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R13.
+Changed R13 value from R_0402_1005Metric to 36K 1%.
+Updated R13 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db23686.
+Updated R13 properties.
+Add net Net-(U6-SDA/SMBDATA/NON_REM1).
+Connected R13 pin 1 to Net-(U6-SDA/SMBDATA/NON_REM1).
+Connected R13 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R14 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R14.
+Changed R14 value from R_0402_1005Metric to 36K 1%.
+Updated R14 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db233ef.
+Updated R14 properties.
+Add net Net-(U6-SUSP_IND/LOCAL_PWR/NON_REM0).
+Connected R14 pin 1 to Net-(U6-SUSP_IND/LOCAL_PWR/NON_REM0).
+Connected R14 pin 2 to GND.
+Connected C4 pin 2 to GND.
+Added R15 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R15.
+Changed R15 value from R_0402_1005Metric to 12K 1%.
+Updated R15 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e39366c.
+Updated R15 properties.
+Connected R15 pin 1 to GND.
+Add net Net-(U6-RBIAS).
+Connected R15 pin 2 to Net-(U6-RBIAS).
+Connected C4 pin 1 to /+3.3v.
+Added R16 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R16.
+Changed R16 value from R_0402_1005Metric to 36K 1%.
+Updated R16 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e39eaf3.
+Updated R16 properties.
+Add net Net-(U6-HS_IND/CFG_SEL1).
+Connected R16 pin 1 to Net-(U6-HS_IND/CFG_SEL1).
+Connected R16 pin 2 to GND.
+Updated C4 properties.
+Added R17 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R17.
+Changed R17 value from R_0402_1005Metric to nf.
+Updated R17 symbol association from  to /00000000-0000-0000-0000-00005cff706a/9e193fd3-fb29-4b5f-9532-1eefb417cf82.
+Updated R17 properties.
+Connected R17 pin 1 to /+3.3v.
+Connected R17 pin 2 to Net-(J7-DET_A).
+Updated C4 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e9f2312.
+Added R18 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R18.
+Changed R18 value from R_0402_1005Metric to nf.
+Updated R18 symbol association from  to /00000000-0000-0000-0000-00005cff706a/d801548f-f229-40db-ad09-ca7d8cd57a51.
+Updated R18 properties.
+Connected R18 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/Reserved.
+Connected R18 pin 2 to Net-(J7-DET_B).
+Changed C4 value from C_0402_1005Metric to 100n.
+Added R19 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R19.
+Changed R19 value from R_0402_1005Metric to 510K 1%.
+Updated R19 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e37126a.
+Updated R19 properties.
+Connected R19 pin 1 to /RTC , Wakeup, FAN/nRTC_INT.
+Connected R19 pin 2 to /+5v.
+Changed REF** reference designator to C4.
+Added R20 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R20.
+Changed R20 value from R_0402_1005Metric to 510K 1%.
+Updated R20 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e37178d.
+Updated R20 properties.
+Connected R20 pin 1 to Net-(C24-Pad1).
+Connected R20 pin 2 to /+5v.
+Added C4 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added R21 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R21.
+Changed R21 value from R_0402_1005Metric to 36K 1%.
+Updated R21 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0e61c8.
+Updated R21 properties.
+Connected R21 pin 1 to Net-(J17-Pin_3).
+Connected R21 pin 2 to /+3.3v.
+Connected C3 pin 2 to GND.
+Added R22 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R22.
+Changed R22 value from R_0402_1005Metric to 10R.
+Updated R22 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489f79.
+Updated R22 properties.
+Connected R22 pin 1 to Net-(U15-SW).
+Connected R22 pin 2 to Net-(C29-Pad1).
+Connected C3 pin 1 to /+3.3v.
+Added R23 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R23.
+Changed R23 value from R_0402_1005Metric to 12K 1%.
+Updated R23 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e4b7379.
+Updated R23 properties.
+Connected R23 pin 1 to Net-(U15-COMP).
+Connected R23 pin 2 to Net-(C64-Pad1).
+Add net /+3.3v.
+Added R24 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R24.
+Changed R24 value from R_0402_1005Metric to 47K 1%.
+Updated R24 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e4be298.
+Updated R24 properties.
+Connected R24 pin 1 to /PCIe-connector/+3.3v.
+Connected R24 pin 2 to Net-(U15-FB).
+Updated C3 properties.
+Added R25 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R25.
+Changed R25 value from R_0402_1005Metric to 20K 1%.
+Updated R25 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540dfe.
+Updated R25 properties.
+Connected R25 pin 1 to Net-(U16-COMP).
+Connected R25 pin 2 to Net-(C60-Pad1).
+Updated C3 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e9f0d71.
+Added R26 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R26.
+Changed R26 value from R_0402_1005Metric to 12K 1%.
+Updated R26 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e3f1beb.
+Updated R26 properties.
+Connected R26 pin 1 to Net-(D4-A).
+Connected R26 pin 2 to GND.
+Changed C3 value from C_0402_1005Metric to 100n.
+Added R27 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R27.
+Changed R27 value from R_0402_1005Metric to 12K 1%.
+Updated R27 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df5.
+Updated R27 properties.
+Connected R27 pin 1 to /+5v.
+Connected R27 pin 2 to Net-(U16-FB).
+Changed REF** reference designator to C3.
+Added R28 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R28.
+Changed R28 value from R_0402_1005Metric to 2.2K 1%.
+Updated R28 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540dfd.
+Updated R28 properties.
+Connected R28 pin 1 to Net-(U16-FB).
+Connected R28 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added R29 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R29.
+Changed R29 value from R_0402_1005Metric to 12K 1%.
+Updated R29 symbol association from  to /00000000-0000-0000-0000-00005cff706a/d041bdd7-8c13-4388-b427-7bbfb222c059.
+Updated R29 properties.
+Connected R29 pin 1 to /+3.3v.
+Connected R29 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR_ON.
+Connected C2 pin 2 to GND.
+Added R30 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R30.
+Changed R30 value from R_0402_1005Metric to 15K 1%.
+Updated R30 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489e2a.
+Updated R30 properties.
+Connected R30 pin 1 to Net-(U15-FB).
+Connected R30 pin 2 to GND.
+Connected C2 pin 1 to /+5v.
+Added R36 (footprint 'Resistor_SMD:R_0402_1005Metric').
+Changed REF** reference designator to R36.
+Changed R36 value from R_0402_1005Metric to 15K 1%.
+Updated R36 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005db53e31.
+Updated R36 properties.
+Add net Net-(U7-ILIM).
+Connected R36 pin 1 to Net-(U7-ILIM).
+Connected R36 pin 2 to GND.
+Add net /+5v.
+Added TP1 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP1.
+Changed TP1 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP1 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e591faa.
+Updated TP1 properties.
+Removed TP1 'exclude from BOM' fabrication attribute.
+Connected TP1 pin 1 to /PCIe-connector/+3.3v.
+Updated C2 properties.
+Added TP2 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP2.
+Changed TP2 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP2 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e58d3f1.
+Updated TP2 properties.
+Removed TP2 'exclude from BOM' fabrication attribute.
+Connected TP2 pin 1 to /+12v.
+Updated C2 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005eaee6a6.
+Added TP3 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP3.
+Changed TP3 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP3 symbol association from  to /00000000-0000-0000-0000-00005cff706a/a747e8fd-28f4-402b-969b-2c8e62ca6408.
+Updated TP3 properties.
+Removed TP3 'exclude from BOM' fabrication attribute.
+Connected TP3 pin 1 to Net-(D2-K).
+Changed C2 value from C_0805_2012Metric to 10u.
+Added TP4 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP4.
+Changed TP4 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP4 symbol association from  to /00000000-0000-0000-0000-00005d31f999/3fabcf40-eb07-4df1-8dba-07df8a40f7b8.
+Updated TP4 properties.
+Removed TP4 'exclude from BOM' fabrication attribute.
+Connected TP4 pin 1 to /+5v.
+Changed REF** reference designator to C2.
+Added TP5 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP5.
+Changed TP5 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP5 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e5bd558.
+Updated TP5 properties.
+Removed TP5 'exclude from BOM' fabrication attribute.
+Connected TP5 pin 1 to Net-(D1-K).
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added TP6 (footprint 'TestPoint:TestPoint_Pad_2.0x2.0mm').
+Changed REF** reference designator to TP6.
+Changed TP6 value from TestPoint_Pad_2.0x2.0mm to TestPoint.
+Updated TP6 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e5a1c5d.
+Updated TP6 properties.
+Removed TP6 'exclude from BOM' fabrication attribute.
+Connected TP6 pin 1 to GND.
+Connected C1 pin 2 to GND.
+Added U1 (footprint 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from USON-10_2.5x1.0mm_P0.5mm to TPD4EUSB30.
+Updated U1 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005ea6ace7.
+Updated U1 properties.
+Connected U1 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_P.
+Connected U1 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_N.
+Connected U1 pin 3 to GND.
+Connected U1 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_N.
+Connected U1 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_P.
+Connected U1 pin 6 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_P.
+Connected U1 pin 7 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_N.
+Connected U1 pin 8 to GND.
+Connected U1 pin 9 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_N.
+Connected U1 pin 10 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_P.
+Connected C1 pin 1 to Net-(C1-Pad1).
+Added U2 (footprint 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Changed REF** reference designator to U2.
+Changed U2 value from USON-10_2.5x1.0mm_P0.5mm to TPD4EUSB30.
+Updated U2 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005e48728e.
+Updated U2 properties.
+Connected U2 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_P.
+Connected U2 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_N.
+Connected U2 pin 3 to GND.
+Connected U2 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_N.
+Connected U2 pin 5 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_P.
+Connected U2 pin 6 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_P.
+Connected U2 pin 7 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_N.
+Connected U2 pin 8 to GND.
+Connected U2 pin 9 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_N.
+Connected U2 pin 10 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_P.
+Add net Net-(C1-Pad1).
+Added U3 (footprint 'CM4IO:TRJG0926HENL').
+Changed REF** reference designator to U3.
+Changed U3 value from TRJG0926HENL to MagJack-A70-112-331N126.
+Updated U3 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dc9735e.
+Updated U3 properties.
+Connected U3 pin 17 to /+3.3v.
+Connected U3 pin 18 to Net-(U3-LEDY_K).
+Connected U3 pin 16 to Net-(U3-LEDG_K).
+Connected U3 pin 15 to /+3.3v.
+Connected U3 pin 20 to GND.
+Connected U3 pin 8 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_N.
+Connected U3 pin 19 to GND.
+Connected U3 pin 7 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD2_P.
+Connected U3 pin 6 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_N.
+Connected U3 pin 5 to Net-(C1-Pad1).
+Connected U3 pin 4 to Net-(C1-Pad1).
+Connected U3 pin 3 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD1_P.
+Connected U3 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_N.
+Connected U3 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD0_P.
+Connected U3 pin 9 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_P.
+Connected U3 pin 10 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TRD3_N.
+Connected U3 pin 11 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR0_TAP.
+Connected U3 pin 12 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR1_TAP.
+Connected U3 pin 13 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR2_TAP.
+Connected U3 pin 14 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/TR3_TAP.
+Updated C1 properties.
+Added U4 (footprint 'Package_SON:USON-10_2.5x1.0mm_P0.5mm').
+Changed REF** reference designator to U4.
+Changed U4 value from USON-10_2.5x1.0mm_P0.5mm to TPD4EUSB30.
+Updated U4 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005eb07faa.
+Updated U4 properties.
+Add net Net-(U4-D1+).
+Connected U4 pin 1 to Net-(U4-D1+).
+Add net Net-(U4-D1-).
+Connected U4 pin 2 to Net-(U4-D1-).
+Connected U4 pin 3 to GND.
+Connected U4 pin 4 to /USB2-HUB/USBD_N.
+Connected U4 pin 5 to /USB2-HUB/USBD_P.
+Connected U4 pin 6 to /USB2-HUB/USBD_P.
+Connected U4 pin 7 to /USB2-HUB/USBD_N.
+Connected U4 pin 8 to GND.
+Connected U4 pin 9 to Net-(U4-D1-).
+Connected U4 pin 10 to Net-(U4-D1+).
+Updated C1 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005dcc8bb6.
+Added U5 (footprint 'Package_TO_SOT_SMD:SOT-353_SC-70-5').
+Changed REF** reference designator to U5.
+Changed U5 value from SOT-353_SC-70-5 to 74LVC1G07SE-7.
+Updated U5 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d4045a5.
+Updated U5 properties.
+Added Y1 (footprint 'Crystal:Crystal_SMD_HC49-SD').
+Connected U5 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/nPWR_LED.
+Connected U5 pin 3 to GND.
+Connected U5 pin 4 to Net-(R10-Pad2).
+Connected U5 pin 5 to /+3.3v.
+Changed C1 value from C_0402_1005Metric to 100n.
+Added U6 (footprint 'Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm').
+Changed REF** reference designator to U6.
+Changed U6 value from QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm to USB2514B-I/M2.
+Updated U6 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005da5fde6.
+Updated U6 properties.
+Connected U6 pin 1 to /USB2-HUB/HD1_N.
+Connected U6 pin 2 to /USB2-HUB/HD1_P.
+Connected U6 pin 3 to /USB2-HUB/HD2_N.
+Connected U6 pin 4 to /USB2-HUB/HD2_P.
+Connected U6 pin 5 to /+3.3v.
+Connected U6 pin 6 to /USB2-HUB/HD3_N.
+Connected U6 pin 7 to /USB2-HUB/HD3_P.
+Connected U6 pin 8 to /USB2-HUB/HD4_N.
+Connected U6 pin 9 to /USB2-HUB/HD4_P.
+Connected U6 pin 10 to /+3.3v.
+Add net unconnected-(U6-TEST-Pad11).
+Connected U6 pin 11 to unconnected-(U6-TEST-Pad11).
+Add net /USB2-HUB/PWR1.
+Connected U6 pin 12 to /USB2-HUB/PWR1.
+Add net /USB2-HUB/nOCS1.
+Connected U6 pin 13 to /USB2-HUB/nOCS1.
+Add net unconnected-(U6-CRFILT-Pad14).
+Connected U6 pin 14 to unconnected-(U6-CRFILT-Pad14).
+Connected U6 pin 15 to /+3.3v.
+Add net unconnected-(U6-PRTPWR2/BC_EN2-Pad16).
+Connected U6 pin 16 to unconnected-(U6-PRTPWR2/BC_EN2-Pad16).
+Connected U6 pin 17 to /USB2-HUB/nOCS1.
+Add net unconnected-(U6-PRTPWR3/BC_EN3-Pad18).
+Connected U6 pin 18 to unconnected-(U6-PRTPWR3/BC_EN3-Pad18).
+Connected U6 pin 19 to /USB2-HUB/nOCS1.
+Add net unconnected-(U6-PRTPWR4/BC_EN4-Pad20).
+Connected U6 pin 20 to unconnected-(U6-PRTPWR4/BC_EN4-Pad20).
+Connected U6 pin 21 to /USB2-HUB/nOCS1.
+Connected U6 pin 22 to Net-(U6-SDA/SMBDATA/NON_REM1).
+Connected U6 pin 23 to /+3.3v.
+Connected U6 pin 24 to Net-(U6-SCL/SMBCLK/CFG_SEL0).
+Connected U6 pin 25 to Net-(U6-HS_IND/CFG_SEL1).
+Connected U6 pin 26 to /nEXTRST.
+Connected U6 pin 27 to /+3.3v.
+Connected U6 pin 28 to Net-(U6-SUSP_IND/LOCAL_PWR/NON_REM0).
+Connected U6 pin 29 to /+3.3v.
+Add net /USB2-HUB/USBH_N.
+Connected U6 pin 30 to /USB2-HUB/USBH_N.
+Add net /USB2-HUB/USBH_P.
+Connected U6 pin 31 to /USB2-HUB/USBH_P.
+Connected U6 pin 32 to Net-(U6-XTALOUT).
+Connected U6 pin 33 to Net-(U6-XTALIN/CLKIN).
+Add net unconnected-(U6-PLLFILT-Pad34).
+Connected U6 pin 34 to unconnected-(U6-PLLFILT-Pad34).
+Connected U6 pin 35 to Net-(U6-RBIAS).
+Connected U6 pin 36 to /+3.3v.
+Connected U6 pin 37 to GND.
+Changed REF** reference designator to C1.
+Added U7 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U7.
+Changed U7 value from SOT-23-6 to AP22653W6.
+Updated U7 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005da5464e.
+Updated U7 properties.
+Connected U7 pin 1 to /+5v.
+Connected U7 pin 2 to GND.
+Connected U7 pin 3 to /USB2-HUB/PWR1.
+Connected U7 pin 4 to /USB2-HUB/nOCS1.
+Connected U7 pin 5 to Net-(U7-ILIM).
+Connected U7 pin 6 to /USB2-HUB/VBUS.
+Added C1 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Added U8 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to U8.
+Changed U8 value from SOIC-8_3.9x4.9mm_P1.27mm to PCF85063AT/AAZ.
+Updated U8 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e8dc781.
+Updated U8 properties.
+Add net Net-(U8-OSCI).
+Connected U8 pin 1 to Net-(U8-OSCI).
+Add net Net-(U8-OSCO).
+Connected U8 pin 2 to Net-(U8-OSCO).
+Connected U8 pin 3 to /RTC , Wakeup, FAN/nRTC_INT.
+Connected U8 pin 4 to GND.
+Connected U8 pin 5 to /CM4_HighSpeed/SDA0.
+Connected U8 pin 6 to /CM4_HighSpeed/SCL0.
+Add net unconnected-(U8-CLKO-Pad7).
+Connected U8 pin 7 to unconnected-(U8-CLKO-Pad7).
+Connected U8 pin 8 to Net-(U8-VDD).
+Connected BT1 pin 2 to GND.
+Added U9 (footprint 'Package_TO_SOT_SMD:SOT-353_SC-70-5').
+Changed REF** reference designator to U9.
+Changed U9 value from SOT-353_SC-70-5 to 74LVC1G07SE-7.
+Updated U9 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d4cc39f.
+Updated U9 properties.
+Changed REF** reference designator to BT1.
+Connected U9 pin 2 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/RUN_PG.
+Connected U9 pin 3 to GND.
+Connected U9 pin 4 to Net-(J2-Pin_13).
+Connected U9 pin 5 to /+5v.
+Add net GND.
+Added U11 (footprint 'Package_SO:MSOP-8_3x3mm_P0.65mm').
+Changed REF** reference designator to U11.
+Changed U11 value from MSOP-8_3x3mm_P0.65mm to EMC2301-1-ACZL-TR.
+Updated U11 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d0d0094.
+Updated U11 properties.
+Connected U11 pin 1 to /CM4_HighSpeed/SDA0.
+Connected U11 pin 2 to /CM4_HighSpeed/SCL0.
+Connected U11 pin 3 to /+3.3v.
+Connected U11 pin 4 to GND.
+Connected U11 pin 5 to Net-(J17-Pin_4).
+Connected U11 pin 6 to Net-(J17-Pin_3).
+Add net unconnected-(U11-CLK-Pad7).
+Connected U11 pin 7 to unconnected-(U11-CLK-Pad7).
+Add net unconnected-(U11-nALERT-Pad8).
+Connected U11 pin 8 to unconnected-(U11-nALERT-Pad8).
+Connected BT1 pin 1 to Net-(BT1-+).
+Added U12 (footprint 'Package_TO_SOT_SMD:SOT-23').
+Changed REF** reference designator to U12.
+Changed U12 value from SOT-23 to RT9742SNGV.
+Updated U12 symbol association from  to /00000000-0000-0000-0000-00005cff70b1/00000000-0000-0000-0000-00005dad5ba8.
+Updated U12 properties.
+Connected U12 pin 1 to /+5v.
+Connected U12 pin 2 to /CM4_HighSpeed/HDMI_5v.
+Connected U12 pin 3 to GND.
+Connected BT1 pin 1 to Net-(BT1-+).
+Added U13 (footprint 'Package_SO:MSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U13.
+Changed U13 value from MSOP-10_3x3mm_P0.5mm to FSUSB42MUX.
+Updated U13 symbol association from  to /00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005e09b996.
+Updated U13 properties.
+Connected U13 pin 1 to /+3.3v.
+Connected U13 pin 2 to /CM4_HighSpeed/USBOTG_ID.
+Connected U13 pin 3 to /CM4_HighSpeed/USB2_P.
+Connected U13 pin 4 to /CM4_HighSpeed/USB2_N.
+Connected U13 pin 5 to GND.
+Connected U13 pin 6 to /USB2-HUB/USBH_N.
+Connected U13 pin 7 to /USB2-HUB/USBH_P.
+Connected U13 pin 8 to /USB2-HUB/USBD_N.
+Connected U13 pin 9 to /USB2-HUB/USBD_P.
+Connected U13 pin 10 to GND.
+Add net Net-(BT1-+).
+Added U14 (footprint 'Package_TO_SOT_SMD:SOT-353_SC-70-5').
+Changed REF** reference designator to U14.
+Changed U14 value from SOT-353_SC-70-5 to 74LVC1G07SE-7.
+Updated U14 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005e366722.
+Updated U14 properties.
+Connected U18 pin 5 to /+3.3v.
+Connected U14 pin 2 to Net-(C24-Pad1).
+Connected U14 pin 3 to GND.
+Connected U14 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/GLOBAL_EN.
+Connected U14 pin 5 to /+5v.
+Updated BT1 properties.
+Added U15 (footprint 'CM4IO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias').
+Changed U16 reference designator to U15.
+Updated U15 symbol association from  to /00000000-0000-0000-0000-00005ed4bb5b/00000000-0000-0000-0000-00005e489ea5.
+Updated U15 properties.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 9 to GND.
+Connected U15 pin 8 to Net-(U15-SW).
+Connected U15 pin 7 to GND.
+Connected U15 pin 6 to Net-(U15-COMP).
+Connected U15 pin 5 to Net-(U15-FB).
+Connected U15 pin 4 to Net-(U15-SS).
+Connected U15 pin 3 to /+12v.
+Connected U15 pin 2 to /+12v.
+Connected U15 pin 1 to Net-(U15-BST).
+Updated BT1 symbol association from  to /00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d313a99.
+Added U16 (footprint 'Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias').
+Changed REF** reference designator to U16.
+Changed U16 value from SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm_ThermalVias to AP64501SP-13.
+Updated U16 symbol association from  to /00000000-0000-0000-0000-00005d31f999/00000000-0000-0000-0000-00005e540df9.
+Updated U16 properties.
+Connected U16 pin 1 to Net-(U16-BST).
+Connected U16 pin 2 to /+12v.
+Connected U16 pin 3 to /+12v.
+Connected U16 pin 4 to Net-(U16-SS).
+Connected U16 pin 5 to Net-(U16-FB).
+Connected U16 pin 6 to Net-(U16-COMP).
+Connected U16 pin 7 to GND.
+Connected U16 pin 8 to Net-(U16-SW).
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Connected U16 pin 9 to GND.
+Changed BT1 value from BatteryHolder_Keystone_3034_1x20mm to Battery_Cell.
+Added U18 (footprint 'Package_TO_SOT_SMD:SOT-23-5').
+Changed REF** reference designator to U18.
+Changed U18 value from SOT-23-5 to RT9742GGJ5.
+Updated U18 symbol association from  to /00000000-0000-0000-0000-00005cff706a/00000000-0000-0000-0000-00005d66d4e4.
+Updated U18 properties.
+Connected U18 pin 1 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR.
+Connected U18 pin 2 to GND.
+Add net unconnected-(U18-nFLG-Pad3).
+Connected U18 pin 3 to unconnected-(U18-nFLG-Pad3).
+Connected U18 pin 4 to /CM4_GPIO ( Ethernet, GPIO, SDCARD)/SD_PWR_ON.
+Warning: No net found for symbol U14 pin 1.
+Warning: No net found for symbol U9 pin 1.
+Warning: No net found for symbol U5 pin 1.
+Warning: No net found for symbol J4 pin MP.
+Warning: No net found for symbol J4 pin MP.
+Warning: No net found for symbol J5 pin MP.
+Warning: No net found for symbol J16 pin MP.
+Warning: No net found for symbol J16 pin MP.
+Warning: No net found for symbol J15 pin MP.
+Warning: No net found for symbol J15 pin MP.
+Warning: No net found for symbol J12 pin 19.
+Warning: No net found for symbol J12 pin 19.
+Warning: No net found for symbol J5 pin MP.
+Error: Cannot add J20 (footprint '171826-4:TE_171826-4' not found).
+Error: Cannot add R4 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot add R5 (footprint 'Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder' not found).
+Error: Cannot add D4 (footprint 'Diode_SMD:D_SOT-23_ANK' not found).
+
+
+Info: Total warnings: 13, errors: 4.
